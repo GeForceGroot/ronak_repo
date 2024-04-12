@@ -1,0 +1,28 @@
+#cont{
+    background-color: #DFD7F9;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+.input-with-icon {
+    position: relative;
+  }
+
+  .input-with-icon input[type="text"] {
+    padding-left: 30px; /* Adjust this value based on the width of your SVG */
+  }
+
+  .input-with-icon svg {
+    position: absolute;
+    left: 5px; /* Adjust the position of the SVG */
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px; /* Adjust the size of the SVG */
+    height: auto;
+  }
+  #imgbg{
+    position: relative;
+    top: 0;
+    right: 0;
+    height: 60px;
+    width: 60px;
+  }

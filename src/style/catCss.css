@@ -1,0 +1,40 @@
+#tBg {
+    background-image: url('../style/Rectangle\ 159.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+#flBg {
+    background-image: url('../style/Rectangle\ 159.png');
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+#miBg {
+    background-image: url('../style/Rectangle\ 159.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+#srBg {
+    background-image: url('../style/Rectangle\ 159.png');
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+#pluseAdd {
+    background-image: url('../style//Group\ 4.png');
+    background-position: right top;
+    /* Set the background position to the top left corner */
+    background-repeat: no-repeat;
+}
+
+#bgrt {
+    margin-right: 140px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    width: 100px;
+    height: 100px;
+}
